@@ -49,6 +49,5 @@ For access to internal repositories or contributions, please reach out to the la
 For collaboration or questions, please contact:  
 **Dr. Samah Jarad Fodeh**  
 📧 samah.fodeh@yale.edu  
-Admin: **Yi-Chun Chen** (Rimi) — 📧 yi-chun.chen@yale.edu
 
 
